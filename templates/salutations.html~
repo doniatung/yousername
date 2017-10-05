@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Hi. Hello. Hola. 
+    </title>
+  </head>
+  <body>
+    <h2>
+    <font color='pink'> Hi {{name}} !
+      <br>  Welcome! How are you today? </font>
+    </h2>
+      <br><br>
+      #Your method type is: {{method}}
+
+      <form action='/logout'>
+	<input type='submit' name='pressed' value='Logout'>
+      </form>
+      
+  </body>
+
+</html>
